@@ -35,7 +35,7 @@ Execution:
 
 
 2) Multi­Hash Algorithm
-   ---------------------
+------------------------
 
 Output Sample:
 --------------
